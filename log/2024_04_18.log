@@ -1,0 +1,222 @@
+2024-04-18 09:51:40.257593 [info] : ========== Server init ==========
+2024-04-18 09:51:40.257602 [info] : Port:1316, OpenLinger: false
+2024-04-18 09:51:40.257618 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-18 09:51:40.257642 [info] : LogSys level: 1
+2024-04-18 09:51:40.257653 [info] : srcDir: /data/ai/Cplusplus/Web/webserver_diff_timer/resources/
+2024-04-18 09:51:40.257658 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-18 09:51:40.257667 [info] : ========== Server start ==========
+2024-04-18 09:59:08.859319 [info] : Client[18](127.0.0.1:23712) in, userCount:1
+2024-04-18 09:59:08.859462 [info] : Client[18] in!
+2024-04-18 09:59:10.634825 [info] : Client[19](127.0.0.1:26784) in, userCount:2
+2024-04-18 09:59:10.634858 [info] : Client[19] in!
+2024-04-18 09:59:10.634910 [info] : Client[20](127.0.0.1:27296) in, userCount:3
+2024-04-18 09:59:10.634917 [info] : Client[20] in!
+2024-04-18 09:59:10.635131 [info] : Client[21](127.0.0.1:28320) in, userCount:4
+2024-04-18 09:59:10.635156 [info] : Client[21] in!
+2024-04-18 09:59:10.635211 [info] : Client[22](127.0.0.1:31904) in, userCount:5
+2024-04-18 09:59:10.635220 [info] : Client[22] in!
+2024-04-18 09:59:10.635306 [info] : Client[23](127.0.0.1:33952) in, userCount:6
+2024-04-18 09:59:10.635312 [info] : Client[23] in!
+2024-04-18 09:59:11.162812 [info] : Client[24](127.0.0.1:34976) in, userCount:7
+2024-04-18 09:59:11.162864 [info] : Client[24] in!
+2024-04-18 09:59:48.306375 [info] : Verify name:lzl pwd:123456
+2024-04-18 09:59:48.335036 [error]: RequestLine Error
+2024-04-18 09:59:48.335124 [info] : Client[19] quit!
+2024-04-18 09:59:48.335180 [info] : Client[19](127.0.0.1:26784) quit, UserCount:6
+2024-04-18 09:59:48.405274 [info] : Client[19](127.0.0.1:675) in, userCount:7
+2024-04-18 09:59:48.405354 [info] : Client[19] in!
+2024-04-18 09:59:59.317858 [info] : Verify name:lzl pwd:1234567890
+2024-04-18 09:59:59.318706 [error]: RequestLine Error
+2024-04-18 09:59:59.318748 [info] : Client[20] quit!
+2024-04-18 09:59:59.318792 [info] : Client[20](127.0.0.1:27296) quit, UserCount:6
+2024-04-18 09:59:59.442809 [info] : Client[25](127.0.0.1:14521) in, userCount:7
+2024-04-18 09:59:59.442843 [info] : Client[25] in!
+2024-04-18 10:00:11.171101 [info] : Client[24] quit!
+2024-04-18 10:00:11.171178 [info] : Client[24](127.0.0.1:34976) quit, UserCount:6
+2024-04-18 10:00:59.365639 [info] : Client[20] quit!
+2024-04-18 10:01:02.383243 [info] : Client[23] quit!
+2024-04-18 10:01:02.383320 [info] : Client[23](127.0.0.1:33952) quit, UserCount:5
+2024-04-18 10:01:02.383331 [info] : Client[21] quit!
+2024-04-18 10:01:02.383349 [info] : Client[21](127.0.0.1:28320) quit, UserCount:4
+2024-04-18 10:01:02.383355 [info] : Client[25] quit!
+2024-04-18 10:01:02.383369 [info] : Client[25](127.0.0.1:14521) quit, UserCount:3
+2024-04-18 10:01:02.383374 [info] : Client[19] quit!
+2024-04-18 10:01:02.383387 [info] : Client[19](127.0.0.1:675) quit, UserCount:2
+2024-04-18 10:01:02.383392 [info] : Client[18] quit!
+2024-04-18 10:01:02.383405 [info] : Client[18](127.0.0.1:23712) quit, UserCount:1
+2024-04-18 10:01:02.383409 [info] : Client[22] quit!
+2024-04-18 10:01:02.383422 [info] : Client[22](127.0.0.1:31904) quit, UserCount:0
+2024-04-18 10:01:38.720695 [info] : Client[18](127.0.0.1:11470) in, userCount:1
+2024-04-18 10:01:38.720728 [info] : Client[18] in!
+2024-04-18 10:01:38.859506 [info] : Verify name:qwe pwd:12345678aa
+2024-04-18 10:01:38.862509 [error]: RequestLine Error
+2024-04-18 10:01:38.862584 [info] : Client[18] quit!
+2024-04-18 10:01:38.862629 [info] : Client[18](127.0.0.1:11470) quit, UserCount:0
+2024-04-18 10:01:39.037756 [info] : Client[18](127.0.0.1:15566) in, userCount:1
+2024-04-18 10:01:39.037785 [info] : Client[18] in!
+2024-04-18 10:01:39.037792 [info] : Client[19](127.0.0.1:16590) in, userCount:2
+2024-04-18 10:01:39.037796 [info] : Client[19] in!
+2024-04-18 10:01:39.037928 [info] : Client[20](127.0.0.1:18126) in, userCount:3
+2024-04-18 10:01:39.037933 [info] : Client[20] in!
+2024-04-18 10:01:39.038040 [info] : Client[21](127.0.0.1:18638) in, userCount:4
+2024-04-18 10:01:39.038045 [info] : Client[21] in!
+2024-04-18 10:01:39.038110 [info] : Client[22](127.0.0.1:21710) in, userCount:5
+2024-04-18 10:01:39.038115 [info] : Client[22] in!
+2024-04-18 10:01:39.038220 [info] : Client[23](127.0.0.1:23246) in, userCount:6
+2024-04-18 10:01:39.038243 [info] : Client[23] in!
+2024-04-18 10:01:39.115664 [info] : Client[24](127.0.0.1:26318) in, userCount:7
+2024-04-18 10:01:39.115691 [info] : Client[24] in!
+2024-04-18 10:01:45.053119 [info] : Client[24] quit!
+2024-04-18 10:01:45.053237 [info] : Client[24](127.0.0.1:26318) quit, UserCount:6
+2024-04-18 10:01:55.356202 [info] : Verify name:qwe pwd:12345678aa
+2024-04-18 10:01:55.357600 [error]: RequestLine Error
+2024-04-18 10:01:55.357657 [info] : Client[22] quit!
+2024-04-18 10:01:55.357686 [info] : Client[22](127.0.0.1:21710) quit, UserCount:5
+2024-04-18 10:01:55.646933 [info] : Client[22](127.0.0.1:7391) in, userCount:6
+2024-04-18 10:01:55.646970 [info] : Client[22] in!
+2024-04-18 10:01:55.719134 [info] : Client[24](127.0.0.1:8415) in, userCount:7
+2024-04-18 10:01:55.719240 [info] : Client[24] in!
+2024-04-18 10:02:01.647373 [info] : Client[24] quit!
+2024-04-18 10:02:01.647430 [info] : Client[24](127.0.0.1:8415) quit, UserCount:6
+2024-04-18 10:02:55.701458 [info] : Client[23] quit!
+2024-04-18 10:02:55.701553 [info] : Client[23](127.0.0.1:23246) quit, UserCount:5
+2024-04-18 10:02:55.701562 [info] : Client[19] quit!
+2024-04-18 10:02:55.701574 [info] : Client[19](127.0.0.1:16590) quit, UserCount:4
+2024-04-18 10:02:55.701577 [info] : Client[21] quit!
+2024-04-18 10:02:55.701586 [info] : Client[21](127.0.0.1:18638) quit, UserCount:3
+2024-04-18 10:02:55.701589 [info] : Client[22] quit!
+2024-04-18 10:02:55.701597 [info] : Client[22](127.0.0.1:7391) quit, UserCount:2
+2024-04-18 10:02:55.701600 [info] : Client[20] quit!
+2024-04-18 10:02:55.701608 [info] : Client[20](127.0.0.1:18126) quit, UserCount:1
+2024-04-18 10:02:55.701611 [info] : Client[18] quit!
+2024-04-18 10:02:55.701621 [info] : Client[18](127.0.0.1:15566) quit, UserCount:0
+2024-04-18 10:02:55.718679 [info] : Client[24] quit!
+2024-04-18 10:07:53.402513 [info] : Client[18](127.0.0.1:47316) in, userCount:1
+2024-04-18 10:07:53.402632 [info] : Client[18] in!
+2024-04-18 10:07:54.547215 [info] : Client[19](127.0.0.1:48852) in, userCount:2
+2024-04-18 10:07:54.547286 [info] : Client[19] in!
+2024-04-18 10:07:54.547398 [info] : Client[20](127.0.0.1:51412) in, userCount:3
+2024-04-18 10:07:54.547409 [info] : Client[20] in!
+2024-04-18 10:07:54.547498 [info] : Client[21](127.0.0.1:55508) in, userCount:4
+2024-04-18 10:07:54.547503 [info] : Client[21] in!
+2024-04-18 10:07:54.547591 [info] : Client[22](127.0.0.1:59604) in, userCount:5
+2024-04-18 10:07:54.547609 [info] : Client[22] in!
+2024-04-18 10:07:54.549519 [info] : Client[23](127.0.0.1:63188) in, userCount:6
+2024-04-18 10:07:54.549536 [info] : Client[23] in!
+2024-04-18 10:07:54.607080 [info] : Client[24](127.0.0.1:64724) in, userCount:7
+2024-04-18 10:07:54.607115 [info] : Client[24] in!
+2024-04-18 10:07:54.607124 [info] : Client[24] quit!
+2024-04-18 10:07:54.607156 [info] : Client[24](127.0.0.1:64724) quit, UserCount:6
+2024-04-18 10:08:05.332708 [info] : Verify name:user1 pwd:123
+2024-04-18 10:08:05.334524 [error]: RequestLine Error
+2024-04-18 10:08:05.334558 [info] : Client[18] quit!
+2024-04-18 10:08:05.334603 [info] : Client[18](127.0.0.1:47316) quit, UserCount:5
+2024-04-18 10:08:05.429108 [info] : Client[18](127.0.0.1:57576) in, userCount:6
+2024-04-18 10:08:05.429191 [info] : Client[18] in!
+2024-04-18 10:08:05.440666 [info] : Client[24](127.0.0.1:60648) in, userCount:7
+2024-04-18 10:08:05.440737 [info] : Client[24] in!
+2024-04-18 10:08:11.482528 [info] : Client[24] quit!
+2024-04-18 10:09:22.755149 [info] : ========== Server init ==========
+2024-04-18 10:09:22.755156 [info] : Port:1316, OpenLinger: false
+2024-04-18 10:09:22.755175 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-18 10:09:22.755200 [info] : LogSys level: 1
+2024-04-18 10:09:22.755209 [info] : srcDir: /data/ai/Cplusplus/Web/webserver_diff_timer/resources/
+2024-04-18 10:09:22.755218 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-18 10:09:22.755223 [info] : ========== Server start ==========
+2024-04-18 10:09:37.933602 [info] : Client[18](127.0.0.1:20690) in, userCount:1
+2024-04-18 10:09:37.933663 [info] : Client[18] in!
+2024-04-18 10:09:37.970760 [info] : Verify name:user1 pwd:123
+2024-04-18 10:09:37.971750 [error]: RequestLine Error
+2024-04-18 10:09:37.971803 [info] : Client[18] quit!
+2024-04-18 10:09:37.971865 [info] : Client[18](127.0.0.1:20690) quit, UserCount:0
+2024-04-18 10:09:38.018134 [info] : Client[18](127.0.0.1:22226) in, userCount:1
+2024-04-18 10:09:38.018164 [info] : Client[18] in!
+2024-04-18 10:09:38.019684 [info] : Client[19](127.0.0.1:25810) in, userCount:2
+2024-04-18 10:09:38.019744 [info] : Client[19] in!
+2024-04-18 10:09:38.019765 [info] : Client[21](127.0.0.1:27346) in, userCount:3
+2024-04-18 10:09:38.019770 [info] : Client[21] in!
+2024-04-18 10:09:38.020041 [info] : Client[20](127.0.0.1:27858) in, userCount:4
+2024-04-18 10:09:38.020047 [info] : Client[20] in!
+2024-04-18 10:09:38.020185 [info] : Client[22](127.0.0.1:30418) in, userCount:5
+2024-04-18 10:09:38.020190 [info] : Client[22] in!
+2024-04-18 10:09:38.020199 [info] : Client[23](127.0.0.1:32466) in, userCount:6
+2024-04-18 10:09:38.020202 [info] : Client[23] in!
+2024-04-18 10:09:38.095987 [info] : Client[24](127.0.0.1:34514) in, userCount:7
+2024-04-18 10:09:38.096026 [info] : Client[24] in!
+2024-04-18 10:09:43.208403 [info] : Client[24] quit!
+2024-04-18 10:09:43.208470 [info] : Client[24](127.0.0.1:34514) quit, UserCount:6
+2024-04-18 10:09:46.597465 [info] : Verify name:shen pwd:123456
+2024-04-18 10:09:46.598097 [error]: RequestLine Error
+2024-04-18 10:09:46.598156 [info] : Client[18] quit!
+2024-04-18 10:09:46.598176 [info] : Client[18](127.0.0.1:22226) quit, UserCount:5
+2024-04-18 10:09:46.790927 [info] : Client[18](127.0.0.1:42186) in, userCount:6
+2024-04-18 10:09:46.790960 [info] : Client[18] in!
+2024-04-18 10:09:46.933827 [info] : Client[24](127.0.0.1:43722) in, userCount:7
+2024-04-18 10:09:46.933862 [info] : Client[24] in!
+2024-04-18 10:09:52.820862 [info] : Client[24] quit!
+2024-04-18 10:09:52.820951 [info] : Client[24](127.0.0.1:43722) quit, UserCount:6
+2024-04-18 10:10:00.391993 [info] : Verify name:lzl pwd:123456
+2024-04-18 10:10:00.393085 [error]: RequestLine Error
+2024-04-18 10:10:00.393135 [info] : Client[23] quit!
+2024-04-18 10:10:00.393154 [info] : Client[23](127.0.0.1:32466) quit, UserCount:5
+2024-04-18 10:10:00.540783 [info] : Client[23](127.0.0.1:20130) in, userCount:6
+2024-04-18 10:10:00.540868 [info] : Client[23] in!
+2024-04-18 10:10:00.555062 [info] : Client[24](127.0.0.1:23714) in, userCount:7
+2024-04-18 10:10:00.555143 [info] : Client[24] in!
+2024-04-18 10:10:05.830814 [info] : Client[24] quit!
+2024-04-18 10:10:05.830884 [info] : Client[24](127.0.0.1:23714) quit, UserCount:6
+2024-04-18 10:10:11.522191 [info] : Client[24](127.0.0.1:22716) in, userCount:7
+2024-04-18 10:10:11.522226 [info] : Client[24] in!
+2024-04-18 10:10:16.522476 [info] : Client[24] quit!
+2024-04-18 10:10:16.522536 [info] : Client[24](127.0.0.1:22716) quit, UserCount:6
+2024-04-18 10:10:18.252943 [info] : Verify name:lzl pwd:123456
+2024-04-18 10:10:18.253398 [error]: RequestLine Error
+2024-04-18 10:10:18.253452 [info] : Client[20] quit!
+2024-04-18 10:10:18.253469 [info] : Client[20](127.0.0.1:27858) quit, UserCount:5
+2024-04-18 10:10:18.369683 [info] : Client[20](127.0.0.1:24764) in, userCount:6
+2024-04-18 10:10:18.369718 [info] : Client[20] in!
+2024-04-18 10:10:18.384948 [info] : Client[24](127.0.0.1:28860) in, userCount:7
+2024-04-18 10:10:18.384982 [info] : Client[24] in!
+2024-04-18 10:10:24.451501 [info] : Client[24] quit!
+2024-04-18 10:10:24.451565 [info] : Client[24](127.0.0.1:28860) quit, UserCount:6
+2024-04-18 10:11:18.391360 [info] : Client[20] quit!
+2024-04-18 10:11:18.391448 [info] : Client[20](127.0.0.1:24764) quit, UserCount:5
+2024-04-18 10:11:18.391455 [info] : Client[19] quit!
+2024-04-18 10:11:18.391466 [info] : Client[19](127.0.0.1:25810) quit, UserCount:4
+2024-04-18 10:11:18.391469 [info] : Client[21] quit!
+2024-04-18 10:11:18.391479 [info] : Client[21](127.0.0.1:27346) quit, UserCount:3
+2024-04-18 10:11:18.391482 [info] : Client[18] quit!
+2024-04-18 10:11:18.391490 [info] : Client[18](127.0.0.1:42186) quit, UserCount:2
+2024-04-18 10:11:18.391502 [info] : Client[22] quit!
+2024-04-18 10:11:18.391510 [info] : Client[22](127.0.0.1:30418) quit, UserCount:1
+2024-04-18 10:11:18.391513 [info] : Client[23] quit!
+2024-04-18 10:11:18.391524 [info] : Client[23](127.0.0.1:20130) quit, UserCount:0
+2024-04-18 10:11:18.391527 [info] : Client[24] quit!
+2024-04-18 10:11:54.282012 [info] : Client[18](127.0.0.1:19106) in, userCount:1
+2024-04-18 10:11:54.282044 [info] : Client[18] in!
+2024-04-18 10:11:55.896009 [info] : Client[19](127.0.0.1:21666) in, userCount:2
+2024-04-18 10:11:55.896045 [info] : Client[19] in!
+2024-04-18 10:11:55.896073 [info] : Client[20](127.0.0.1:22690) in, userCount:3
+2024-04-18 10:11:55.896080 [info] : Client[20] in!
+2024-04-18 10:11:55.896234 [info] : Client[21](127.0.0.1:24226) in, userCount:4
+2024-04-18 10:11:55.896256 [info] : Client[21] in!
+2024-04-18 10:11:55.896298 [info] : Client[22](127.0.0.1:27810) in, userCount:5
+2024-04-18 10:11:55.896303 [info] : Client[22] in!
+2024-04-18 10:11:55.896439 [info] : Client[23](127.0.0.1:28834) in, userCount:6
+2024-04-18 10:11:55.896443 [info] : Client[23] in!
+2024-04-18 10:11:55.917668 [info] : Client[24](127.0.0.1:31906) in, userCount:7
+2024-04-18 10:11:55.917695 [info] : Client[24] in!
+2024-04-18 10:12:01.377531 [info] : Client[24] quit!
+2024-04-18 10:12:01.377592 [info] : Client[24](127.0.0.1:31906) quit, UserCount:6
+2024-04-18 10:12:55.951086 [info] : Client[18] quit!
+2024-04-18 10:12:55.951165 [info] : Client[18](127.0.0.1:19106) quit, UserCount:5
+2024-04-18 10:12:55.951176 [info] : Client[20] quit!
+2024-04-18 10:12:55.951191 [info] : Client[20](127.0.0.1:22690) quit, UserCount:4
+2024-04-18 10:12:55.951197 [info] : Client[23] quit!
+2024-04-18 10:12:55.951211 [info] : Client[23](127.0.0.1:28834) quit, UserCount:3
+2024-04-18 10:12:55.951217 [info] : Client[19] quit!
+2024-04-18 10:12:55.951229 [info] : Client[19](127.0.0.1:21666) quit, UserCount:2
+2024-04-18 10:12:55.951234 [info] : Client[22] quit!
+2024-04-18 10:12:55.951251 [info] : Client[22](127.0.0.1:27810) quit, UserCount:1
+2024-04-18 10:12:55.951257 [info] : Client[21] quit!
+2024-04-18 10:12:55.951270 [info] : Client[21](127.0.0.1:24226) quit, UserCount:0
