@@ -58,6 +58,8 @@ void WheelTimer::clear() {
 void WheelTimer::tick() {
     // auto& slot = slots[cur_slot];
     timer_ptr tmp = slots[cur_slot];
+    
+    // 将该槽内所有到时间的节点都执行
     while (tmp) {
         timer_ptr next = tmp->next;
         if(std::chrono::duration_cast<MS>(tmp->expires - Clock::now()).count() <= 0) { 

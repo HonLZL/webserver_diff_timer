@@ -71,10 +71,12 @@ private:
 
     static const int SI = 1;  // 每 SI 秒,转动一次
 
+    // 时间轮
     std::vector<timer_ptr> slots;
 
     size_t cur_slot = 0;
 
+    // 方便根据 id 查询结点
     std::unordered_map<int, timer_ptr> ref_;
 };
 
